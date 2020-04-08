@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mathias",
+      "age": "43",
+      "qualites": "funny-ish",
+      "password": "$2b$10$WS/ZrTf3UaTZaPTpSnOdief0Yxi5QPXYCEsdnZOBCfojC.ziM6jAW"
+    },
+    {
+      "id": 2,
+      "name": "Anna",
+      "age": "100",
+      "qualites": "Kewl",
+      "password": "$2b$10$PFUnznL.NQ/fMFunWonPTOEXc7Gw7uvcZTq3rr4apnewmt.OZzfKe"
+    },
+    {
+      "id": 3,
+      "name": "Johnny",
+      "age": "3",
+      "qualites": "steals stuff",
+      "password": "$2b$10$xzhDD/L9A9yA2H9qRG87ue/4rPNubRNsoyQbaku7SnoURCMOi45S2"
+    },
+    {
+      "id": 4,
+      "name": "Frodo",
+      "age": "52",
+      "qualites": "Big Feet",
+      "password": "$2b$10$0MQq2wQ/OfS3hZbDturi5eGBhblk3IJzi2YNDzjsiBVO0a61dizUq"
+    },
+    {
+      "id": 5,
+      "name": "Fushia",
+      "age": "18",
+      "qualites": "Funny",
+      "password": "$2b$10$mIsaLTnl6ggVqxRE5UchKueT9BAD2hdPvH4kZUoB0KVpaBbH7CwTq"
+    }
+  ]
+}
